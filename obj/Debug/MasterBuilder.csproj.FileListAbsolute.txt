@@ -1,0 +1,13 @@
+C:\Users\pg24quentin\source\repos\MasterBuilder\bin\Debug\MasterBuilder.exe.config
+C:\Users\pg24quentin\source\repos\MasterBuilder\bin\Debug\MasterBuilder.exe
+C:\Users\pg24quentin\source\repos\MasterBuilder\bin\Debug\MasterBuilder.pdb
+C:\Users\pg24quentin\source\repos\MasterBuilder\obj\Debug\MasterBuilder.csproj.AssemblyReference.cache
+C:\Users\pg24quentin\source\repos\MasterBuilder\obj\Debug\MasterBuilder.csproj.SuggestedBindingRedirects.cache
+C:\Users\pg24quentin\source\repos\MasterBuilder\obj\Debug\MasterBuilder.Properties.Resources.resources
+C:\Users\pg24quentin\source\repos\MasterBuilder\obj\Debug\MasterBuilder.csproj.GenerateResource.cache
+C:\Users\pg24quentin\source\repos\MasterBuilder\obj\Debug\MasterBuilder.csproj.CoreCompileInputs.cache
+C:\Users\pg24quentin\source\repos\MasterBuilder\obj\Debug\MasterBuilder.exe
+C:\Users\pg24quentin\source\repos\MasterBuilder\obj\Debug\MasterBuilder.pdb
+C:\Users\pg24quentin\source\repos\MasterBuilder\obj\Debug\MasterBuilder.LoginForm.resources
+C:\Users\pg24quentin\source\repos\MasterBuilder\obj\Debug\MasterBuilder.Form2.resources
+C:\Users\pg24quentin\source\repos\MasterBuilder\obj\Debug\MasterBuilder.Form3.resources
